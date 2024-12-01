@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with exp
 
 ### 🚀 About Me
 
-🌱 I’m currently learning **Python, JavaScript, HTML, CSS**<br>🔭 I’m working on **a protofolio website, Discord bots**<br>💬 Ask me about **Python Discord Development**<!-- <br>⚡ Fun fact: **** -->
+🌱 I’m currently learning **Python, JavaScript, HTML, CSS**<br>🔭 I’m working on **a portofolio website, Discord bots**<br>💬 Ask me about **Python Discord Development**<!-- <br>⚡ Fun fact: **** -->
 
 ---
 
