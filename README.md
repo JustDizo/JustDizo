@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with exp
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Public GitHub Stats
 
 ![JustDizo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustDizo&show_icons=true&theme=radical)
 
