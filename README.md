@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with exp
 ### 🤝 Let's Connect
 
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/679499786004856865)  
-**Discord Username**: `JustDizo`
+**Discord Username**: `justdizo`
 
 ---
 
