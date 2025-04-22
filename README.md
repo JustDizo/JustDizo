@@ -37,6 +37,8 @@
 
 ---
 
-<img align="left" alt="JustDizo's GitHub Statistics" src="https://github-readme-stats-theta-sandy-67.vercel.app/api?username=JustDizo&count_private=true&show_icons=true&theme=radical&hide=prs,issues,stars&include_all_commits=true&cache_seconds=60&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img src="https://github-readme-stats-theta-sandy-67.vercel.app/api?username=JustDizo&count_private=true&show_icons=true&theme=default&hide=prs,issues,stars&include_all_commits=true&cache_seconds=60&title_color=ff652f&icon_color=FFE400&bg_color=ffffff&text_color=000000&border_color=dddddd#gh-light-mode-only" alt="JustDizo's GitHub Statistics" />
+
+<img src="https://github-readme-stats-theta-sandy-67.vercel.app/api?username=JustDizo&count_private=true&show_icons=true&theme=radical&hide=prs,issues,stars&include_all_commits=true&cache_seconds=60&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25#gh-dark-mode-only" alt="JustDizo's GitHub Statistics" />
 
 <!-- <img align="left" alt="JustDizo's Top Languages" src="https://github-readme-stats-theta-sandy-67.vercel.app/api/top-langs/?username=JustDizo&exclude_repo=github-readme-stats&hide_progress=true&count_private=true&cache_seconds=60&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
