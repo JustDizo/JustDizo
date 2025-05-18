@@ -1,9 +1,9 @@
 # Hi there 👋, I'm JustDizo!
 
-### I'm a passionate **Full-Stack Developer** with expertise in building dynamic, data-driven web applications and **Discord bots** using modern technologies like **Python**, **JavaScript**, and **MongoDB**.
+### I'm a passionate **Developer** with expertise in building dynamic, data-driven web applications, Discord bots and other projects using modern technologies like **Python**, **JavaScript**, and **MongoDB**.
 
-- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS**  
-- 🔭 I’m working on **a portfolio website, Discord bots, and private projects**  
+- 🌱 I’m currently learning **JavaScript, HTML, CSS**  
+- 🔭 I’m working on **Discord bots, and private projects**  
 - 💬 Ask me about **Python Discord Development**  
 - 📫 Reach me on **Discord** for collaborations or questions  
 
