@@ -34,10 +34,10 @@
 <a href="https://www.github.com#gh-light-mode-only" target="_blank"><img align="left" alt="GitHub Light Mode" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px; display:block;" /></a>
 
 <br style="clear:both" />
-
+<!--
 ---
 
-<!--<a href="https://github.com/JustDizo#gh-light-mode-only" target="_blank">
+<a href="https://github.com/JustDizo#gh-light-mode-only" target="_blank">
     <img src="https://github-readme-stats-theta-sandy-67.vercel.app/api?username=JustDizo&count_private=true&show_icons=true&theme=default&hide=prs,issues,stars&include_all_commits=true&cache_seconds=60&title_color=ff652f&icon_color=FFE400&bg_color=ffffff&text_color=000000&border_color=dddddd" alt="JustDizo's GitHub Statistics" />
 </a>
 
