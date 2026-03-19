@@ -1,0 +1,127 @@
+/*
+ * ╔══════════════════════════════════════════════════════════╗
+ *  DOCK SYSTEMS — GamepadViewer DS4 Skin
+ *  Brand: #0079CE · #15A6FF
+ * ╠══════════════════════════════════════════════════════════╣
+ *
+ *  HOSTING (GitHub Pages — required, raw GitHub won't work):
+ *  1. Create a repo e.g. "gamepad-overlay"
+ *  2. Upload this file as skin.css
+ *  3. Go to Settings → Pages → Deploy from branch → main / root
+ *  4. Your URL will be: https://YOURNAME.github.io/gamepad-overlay/skin.css
+ *
+ *  OBS BROWSER SOURCE URL:
+ *  https://gamepadviewer.com/?p=1&s=5&css=https://YOURNAME.github.io/gamepad-overlay/skin.css
+ *
+ *  s=5  = black DS4 controller (recommended base for dark skin)
+ *  s=8  = white DS4 controller
+ *
+ *  Browser source size: 600 x 380
+ * ╚══════════════════════════════════════════════════════════╝
+ */
+
+/* ── Transparent background for OBS ── */
+body {
+    background: transparent !important;
+}
+
+/* ══════════════════════════════════════
+   DS4 CONTROLLER SKIN
+   gamepadviewer uses .ds4 on the wrapper.
+   Buttons are image sprites; opacity:0 = hidden,
+   opacity:1 = visible (pressed state).
+   We recolor everything with CSS filters.
+   ══════════════════════════════════════ */
+
+/* Tint the entire controller body dark blue-grey */
+.controller.ds4 {
+    filter: hue-rotate(195deg) saturate(0.55) brightness(0.65) !important;
+}
+
+/* ── Triggers (L2 / R2) ── */
+.ds4 .trigger {
+    opacity: 0;
+}
+.ds4 .trigger.pressed {
+    opacity: 1 !important;
+    filter: hue-rotate(195deg) saturate(6) brightness(2.2)
+            drop-shadow(0 0 12px #15A6FF) !important;
+}
+
+/* ── Bumpers (L1 / R1) ── */
+.ds4 .bumper {
+    opacity: 0;
+}
+.ds4 .bumper.pressed {
+    opacity: 1 !important;
+    filter: hue-rotate(195deg) saturate(6) brightness(2)
+            drop-shadow(0 0 8px #0079CE) !important;
+}
+
+/* ── Face buttons (cross / circle / square / triangle) ── */
+.ds4 .button {
+    opacity: 0;
+}
+.ds4 .button.pressed {
+    opacity: 1 !important;
+    filter: hue-rotate(195deg) saturate(6) brightness(2.2)
+            drop-shadow(0 0 10px #15A6FF) !important;
+}
+
+/* ── D-Pad ── */
+.ds4 .face {
+    opacity: 0;
+}
+.ds4 .face.pressed {
+    opacity: 1 !important;
+    filter: hue-rotate(195deg) saturate(6) brightness(2)
+            drop-shadow(0 0 8px #0079CE) !important;
+}
+
+/* ── Share / Options (back / start) ── */
+.ds4 .back,
+.ds4 .start {
+    opacity: 0;
+}
+.ds4 .back.pressed,
+.ds4 .start.pressed {
+    opacity: 1 !important;
+    filter: hue-rotate(195deg) saturate(6) brightness(2)
+            drop-shadow(0 0 6px #0079CE) !important;
+}
+
+/* ── Analog sticks ── */
+.ds4 .stick {
+    filter: hue-rotate(195deg) saturate(0.55) brightness(0.65) !important;
+}
+.ds4 .stick.pressed {
+    filter: hue-rotate(195deg) saturate(6) brightness(2)
+            drop-shadow(0 0 10px #15A6FF) !important;
+}
+
+/* ── Touchpad ── */
+.ds4 .touchpad {
+    opacity: 0.15;
+    filter: hue-rotate(195deg) saturate(2) brightness(1) !important;
+}
+.ds4 .touchpad.pressed {
+    opacity: 1 !important;
+    filter: hue-rotate(195deg) saturate(6) brightness(2.2)
+            drop-shadow(0 0 14px #15A6FF) !important;
+}
+
+/* ── PS home button ── */
+.ds4 .ps {
+    opacity: 0.2;
+    filter: hue-rotate(195deg) saturate(2) brightness(1) !important;
+}
+.ds4 .ps.pressed {
+    opacity: 1 !important;
+    filter: hue-rotate(195deg) saturate(6) brightness(2.5)
+            drop-shadow(0 0 18px #15A6FF) !important;
+}
+
+/* ── Player indicator (quadrant dots) ── */
+.ds4 .quadrant {
+    filter: hue-rotate(195deg) saturate(4) brightness(1.8) !important;
+}
